@@ -1,0 +1,13 @@
+IN CMD
+d:   -change location to local disk d
+mkdir filename -make new dir
+cd filename -change dir
+
+
+to connect to git resposirtry
+git clone https://github.com/DILEEP1022/Android..........cloning into android
+
+
+to get git status:
+git status
+
